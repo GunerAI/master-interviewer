@@ -1,0 +1,105 @@
+TECHNICAL SKILLS
+Network Security
+TCP/IP, HTTP/S, DNS Security
+Firewalls – Palo Alto Networks, Cisco
+IDS/IPS Systems – Snort, Suricata, Zeek
+Packet Capture, Payload & Flow Analysis
+Information/Endpoint Security
+Phishing/Email Analysis, MxToolbox
+Dynamic Attachment Analysis
+Static MalDoc/PDF Analysis
+Malware Analysis & Triage
+Process, Registry, Behavior Analysis
+DLP, Zero Trust, Defense in Depth (DiD)
+Security Operations
+Triage & Incident Response
+NIST, SANS, MITRE ATT&CK Framework
+Cyber Kill Chain Framework
+TOOLS
+ServiceNow, Splunk>
+Microsoft Sentinel, Cortex XSOAR
+VirusTotal, AbuseIPDB, TALOS, Umbrella
+AnyRun, urlscan, ThreatGrid, SHODAN
+Recorded Future
+WireShark, Tcpdump, NMAP, Qualys
+Microsoft Defender XDR
+Defender for Cloud
+Entra ID, Purview, Intune (MDM/MAM)
+Copilot for Security
+Proofpoint, KnowBe4, NINJIO, Cofense
+Operating Systems
+Windows (Client/Server), Linux, macOS
+Security Automation
+Python, Bash, PowerShell, HTML, RegEx
+SQL, Splunk SPL, KQL, Lua
+Microsoft Graph API
+Cloud Services
+Azure | AWS
+IAM & RBAC, CA Policy Management
+SUMMARY
+Cybersecurity professional with experience in threat detection, incident response, and cloud
+security. Skilled in SIEM/SOAR tools, vulnerability management, and policy implementation.
+Collaborative, adaptable team player with the initiative to work independently on security goals.
+CERTIFICATION
+ CompTIA Security+
+ Azure SC-200 SOC Analyst Associate
+ IBM Cyber Security Analyst Professional
+ Splunk Search Expert Specialization
+ DDoS Attacks & Defenses by UoC
+ Qualys Vulnerability Management D&R
+ Cisco Threat Hunting Workshop Training
+EDUCATION
+BS/ Mathematics
+Yildiz Technical University
+Istanbul, Turkey
+LANGUAGES
+English, Spanish, Turkish
+PROFESSIONAL HISTORY
+Information Security Engineer
+Solvent CyberSecurity | Fairfax, VA | Jan 2025 – Present
+ Assist with Identity and Access Management in Azure by configuring Role-Based Access
+Control (RBAC), Conditional Access policies, and Privileged Access Management using Entra ID
+ Conduct advanced threat detection and incident response using Sentinel by developing
+analytics & automation rules and SOAR playbooks to streamline triage and response workflows
+ Implement Data Loss Prevention (DLP) policies with Microsoft Purview across regulatory
+frameworks, applying sensitivity labels and automating data classification via auto-labeling
+ Monitor and manage security in Azure, supporting audits and compliance checks across cloud
+and on-premises environments to ensure adherence to NIST, HIPAA, ISO, PCI DSS, and SOC 2
+ Support vulnerability/configuration management and policy enforcement by creating tickets
+via Intune, performing compliance checks aligned with CIS Benchmarks, DISA STIGs, and NIST
+ Manage Email Security in Defender and Exchange Admin by monitoring threats, fine-tuning
+policies and transport rules, using user tagging to harden mail flow and improve response
+Cyber Security Analyst
+Solvent CyberSecurity | Fairfax, VA | Feb 2024 – Jan 2025
+ Ticket Management: Track and escalate incidents, follow them through to closure, and
+document findings using the integrated ServiceNow (SNOW) ticketing system
+ Log & Traffic Analysis: Analyze logs from firewalls, IDS/IPS, proxies, servers and endpoints
+using the Splunk SIEM solution and identify the specific rules that trigger alerts
+ Incident Response: Execute defined procedures by triaging alerts, and coordinating with
+relevant teams to contain and remediate threats in alignment with NIST guidelines
+ Packet Capture Analysis: Examine PCAP files using Wireshark to identify anomalous traffic,
+investigate infected hosts, and document IoCs in executive summary reports
+ Access Log Monitoring: Analyze audit and sign-in logs via Microsoft Entra ID and Intune to
+detect unusual access, device activity, and behavioral anomalies
+ Email & Phishing Analysis: Investigate suspicious emails, phishing attempts, and attachments
+using dynamic and static analysis to identify malicious payloads and techniques
+ Endpoint Detection & Response: Monitor endpoint activity with Defender for Endpoint and
+Defender XDR to detect malicious behavior and support containment and remediation
+ Client Communication: Deliver timely updates and detailed reports aligned with the cyber kill
+chain regarding intrusion events, security incidents, and emerging threats
+Data, Assessment and Accountability Coordinator
+TMSA Public Charter Schools | Apex, NC | May 2023 – Feb 2024
+ Assisted with Identity and Access Management by configuring Conditional Access policies,
+Privileged Access Management, supporting secure role assignments using Microsoft Entra ID
+ Supported IT systems and security operations by troubleshooting technical issues across
+software, networks, and hardware, ensuring data integrity and confidentiality during testing
+ Analyzed and visualized sensitive educational data using Excel and Power BI to support
+strategic planning, improving secure data workflows, training staff on data protection practices
+Business Owner & Advisor
+Hogar Estambul | Cochabamba, Bolivia | 2017 – 2023
+Developed sustainable growth strategies, and managed consistent brand positioning across
+multiple platforms. Executed targeted digital marketing campaigns and created content
+Math Instructor, Administrator
+PakTurk International Schools & Colleges | Karachi, Pakistan | 2010 – 2017
+Progressed through roles from teacher to principal, led professional development, implemented
+institutional policies and integrated IT systems to optimize academic and operational efficiency

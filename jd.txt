@@ -1,0 +1,50 @@
+Cybersecurity Analyst
+
+Here at Siemens, we take pride in enabling sustainable progress through technology. We do this through empowering customers by combining the real and digital worlds. Improving how we live, work, and move today and for the next generation! We know that the only way a business thrive is if our people are thriving. That’s why we always put our people first. Our global, diverse team would be happy to support you and challenge you to grow in new ways. Who knows where our shared journey will take you?
+
+The Electrification and Automation (EA) Business Unit offers the full range of energy distribution systems and solutions for all markets and through all sales channels. We provide reliable power distribution grids of today while investing into our Future Grids portfolio and applications to create the power distribution grid of the future. Our comprehensive portfolio meets the growing technical requirements of todays and tomorrow’s power grid!
+
+We are looking for an OT Cybersecurity Analyst who will assist in both IT and plant-related OT cybersecurity topics in close cooperation with the factory’s stakeholders and the respective cybersecurity organization.
+
+#TransformtheEveryday
+
+You’ll make an impact as you:
+
+You will be responsible for compliance with information security policies of "Operation Technology" (OT) assets in three of Siemens AG's factories in North America.
+Provide transparency on cybersecurity risks to internal customers.
+Support and advise the internal customers with respect to any topics related to the implementation of cybersecurity and region-specific cyber threats and risks.
+Responsible for the Asset Classification & Protection (ACP) process for OT assets, assessing and assessing the criticality of the assets and implementing protection concepts
+You will act as an interface between the technical specialists and the management level by explaining the technical risks to the management and making the business risks transparent.
+Recommend appropriate measures to address security issues and reduce risk to acceptable levels, always keeping business capability and digitalization initiatives in mind
+Asist in IT/OT: risk management, incident management, checking the effectiveness of implemented protection concepts and measures, and supporting information security audits
+Tracking Vulnerability tickets on both IT and OT networks and assisting with remediation when possible.
+Cybersecurity contract and 3rd party vendor security compliance reviews
+Asist with migration to cloud, ensuring cloud security
+
+You’ll win us over by having the following qualifications: 
+
+Minimum of a Bachelors or degree in computer science, business informatics, IT security or related fields
+3+ years of experience in the following:
+OT sector with a focus on audit and cybersecurity
+Understanding of industry standards/regulations of security standards, e. g. EO14028, NIST, ISO27001, IEC 62443.
+Knowledge of the security assessment of OT systems and the threat and risk-based evaluation of protective measures (e.g. Active Directory, firewalls, proxy, WAN, LAN, SD-WAN, Network Security, Remote Access)
+Proficiency in English both written and verbal.
+Ability to work in the US without sponsorship now or in the future
+Preferred Qualifications
+
+Appropriate training in several security areas and certifications (e.g. CISSP, CISM, CRISC, GICSP) is an advantage
+Solution-oriented thinking, strong analytical skills and excellent teamwork
+The ability to learn and work in a team, a strong sense of responsibility at work and advanced problem-solving skills
+Knowledge of automation technology and experience in the field of production machines (preferably plant production)
+Advanced degree in computer science, business informatics, IT security or related fields
+Cloud migration or cloud security experience
+Self-sufficient- ability to identify issues and own through resolution
+Ability to create, implement and execute best practices
+
+About Siemens:
+
+We are a global technology company focused on industry, infrastructure, transport, and healthcare. From more resource efficient factories, resilient supply chains, and smarter buildings and grids, to sustainable transportation as well as advanced healthcare, we create technology with purpose adding real value for customers. Learn more about Siemens here.
+
+Our Commitment to Equity and Inclusion in our Diverse Global Workforce:
+
+We value your unique identity and perspective. We are fully committed to providing equitable opportunities and building a workplace that reflects the diversity of society, while ensuring that we attract the best talent based on qualifications, skills, and experiences. We welcome you to bring your authentic self and transform the everyday with us. 
