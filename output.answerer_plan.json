@@ -1,0 +1,18 @@
+{
+  "steps": [
+    "Select a strong example from resume where candidate handled vulnerability management or compliance checks (e.g., Azure/Intune CIS Benchmarks, DISA STIGs, NIST).",
+    "Briefly describe the context and system environment (cloud/IT with potential OT parallels).",
+    "Explain how the vulnerability was identified (tools like Qualys, Sentinel, Splunk, Intune compliance checks).",
+    "Detail remediation actions taken, including collaboration with teams and applying benchmarks or patches.",
+    "Highlight measurable impact (reduced risk, passed audit, improved compliance).",
+    "Conclude with lessons learned and how it applies to Siemens OT/IT hybrid environment."
+  ],
+  "assumptions": [
+    "Candidate has not worked directly in OT but can map IT/cloud vulnerability management experience to OT context.",
+    "Siemens values structured, risk-based remediation aligned with standards like NIST and ISO27001."
+  ],
+  "success_criteria": [
+    "Answer demonstrates clear problem-action-result structure with technical depth.",
+    "Candidate connects past IT/cloud experience to Siemens OT cybersecurity needs, showing adaptability and relevance."
+  ]
+}

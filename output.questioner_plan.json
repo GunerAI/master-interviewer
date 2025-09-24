@@ -1,0 +1,20 @@
+{
+  "steps": [
+    "Extract core responsibilities, required skills, and preferred qualifications from the JD",
+    "Map candidate’s technical skills, certifications, and work experience to JD requirements",
+    "Identify gaps or partial matches between JD and resume to generate probing questions",
+    "Prioritize questions by relevance to JD responsibilities, candidate’s strengths, and potential gaps",
+    "Formulate 15 concise, ranked interview questions covering technical, behavioral, and situational aspects"
+  ],
+  "assumptions": [
+    "The interviewer seeks alignment between OT cybersecurity requirements and candidate’s IT/cloud security background",
+    "Candidate’s certifications and cloud security experience may compensate for limited direct OT exposure",
+    "Behavioral and situational questions are valued alongside technical ones"
+  ],
+  "success_criteria": [
+    "15 interview questions are directly tied to JD responsibilities and candidate’s resume",
+    "Questions are ranked by importance and relevance to Siemens’ OT cybersecurity role",
+    "Coverage includes technical depth, compliance knowledge, cloud/OT overlap, and soft skills",
+    "Plan ensures no redundant or generic questions"
+  ]
+}
